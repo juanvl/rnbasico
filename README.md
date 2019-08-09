@@ -38,4 +38,27 @@ public class MainActivity extends ReactActivity {
 }
 ```
 
+Depois disso é interessante rodar novamente o build pro android para evitar problemas:
+
+```sh
+react-native run-android
+```
+
+
+#### Passo Adicional no iOS
+
+
+No iOS teoricamente não é preciso fazer nada, porém para evitar possíveis problemas, fazemos o seguinte:
+
+(Supondo que você esteja na pasta raiz do projeto)
+
+```sh
+cd ios && pod install
+```
+Em seguida:
+
+```sh
+cd .. && react-native run-ios
+```
+
 ---

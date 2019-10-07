@@ -1,5 +1,7 @@
 {
+  "react-native-reanimated": "latest",
   "react-native-gesture-handler": "latest",
+  "react-native-screens": "latest",
   "react-navigation": "latest",
   "styled-components": "latest",
   "prop-types": "latest"

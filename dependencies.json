@@ -2,5 +2,5 @@
   "react-native-gesture-handler": "latest",
   "react-navigation": "latest",
   "styled-components": "latest",
-  "prop-types": "latest",
+  "prop-types": "latest"
 }

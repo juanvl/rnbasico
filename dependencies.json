@@ -4,5 +4,6 @@
   "react-native-screens": "latest",
   "react-navigation": "latest",
   "styled-components": "latest",
-  "prop-types": "latest"
+  "prop-types": "latest",
+  "reactotron-react-native": "latest"
 }

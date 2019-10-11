@@ -13,6 +13,5 @@
   "eslint-plugin-react-hooks": "latest",
   "eslint-plugin-react-native": "latest",
   "eslint-import-resolver-babel-plugin-root-import": "latest",
-  "prettier": "latest",
-  "reactotron-react-native": "latest"
+  "prettier": "latest"
 }
